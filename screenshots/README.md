@@ -1,19 +1,19 @@
 ## 📸 Platform Showcase
 
 ### 🚀 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### 🧠 Career Copilot
-![Career Copilot](screenshots/career-copilot.png)
+![Career Copilot](career-copilot.png)
 
 ### 🎤 AI Interview Coach
-![Interview Coach](screenshots/interview-coach.png)
+![Interview Coach](interview-coach.png)
 
 ### 💻 DSA Arena
-![DSA Arena](screenshots/dsa-arena.png)
+![DSA Arena](dsa-arena.png)
 
 ### 📊 Growth Analytics
-![Analytics](screenshots/analytics.png)
+![Analytics](analytics.png)
 
 ### 📚 Study Assistant
-![Study Assistant](screenshots/study-assistant.png)
+![Study Assistant](study-assistant.png)
